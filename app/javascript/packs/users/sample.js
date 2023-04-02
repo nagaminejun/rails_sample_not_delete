@@ -4,4 +4,4 @@
 // このファイルはapp/javascript/packs/users.jsでrequire ("./users/sample");を記載することによって読み込まれます。
 
 console.log("サンプルジェイエス")
-
+console.log("サンプルjs")
